@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="settings_synonyms">
+        <item>second fragment</item>
+        <item>second feature</item>
+        <item>settings</item>
+    </array>
+
+    <array name="first_synonyms">
+        <item>first fragment</item>
+        <item>first feature</item>
+        <item>first</item>
+    </array>
+</resources>
